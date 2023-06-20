@@ -1,4 +1,4 @@
-# Googly Eyes
+# Googly Eyes 👀
 A simple ElectronJS app that adds a pair of eyes in the bottom right of your screen, which follow your mouse around.
 
 To run the app, simply clone the repo and `cd` into the folder, then:
