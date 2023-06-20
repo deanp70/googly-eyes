@@ -7,5 +7,5 @@ npm ci
 npm run start
 ```
 
-Star it if you like it. I built this with ChatGPT's help over a fun hour since I saw it someplace in a video and wanted one for myself.
+⭐️ Star it if you like it. I built this with ChatGPT's help over a fun hour since I saw it someplace in a video and wanted one for myself.
 
