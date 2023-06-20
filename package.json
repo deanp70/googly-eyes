@@ -1,6 +1,14 @@
 {
-  "name": "appname",
+  "name": "googly",
   "version": "0.0.0",
   "license": "MIT",
-  "main": "main.js"
+  "main": "main.js",
+  "devDependencies": {
+    "electron": "^25.1.1",
+    "electron-packager": "^17.1.1"
+  },
+  "scripts": {
+    "start": "electron .",
+    "package-mac": "electron-packager . --overwrite --platform=darwin --arch=x64 --out=./dist --icon=./icon.icns --prune"
+  }
 }
