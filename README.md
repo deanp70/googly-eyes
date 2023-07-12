@@ -1,3 +1,5 @@
+<p align="center"><img title="Googly Eyes" alt="Googly Eyes" src="/googly.gif"></p>
+
 # Googly Eyes 👀
 A simple ElectronJS app that adds a pair of eyes in the bottom right of your screen, which follow your mouse around.
 
