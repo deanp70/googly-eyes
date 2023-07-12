@@ -11,3 +11,10 @@ npm run start
 
 ⭐️ Star it if you like it. I built this with ChatGPT's help over a fun hour since I saw it someplace in a video and wanted one for myself.
 
+## Packaging For Mac
+If you want to create a proper mac application, so you don't need to run any commands to have the app running simply run the following commands once to create the app:
+```bash
+npm ci
+npm run package-mac
+```
+You'll see a `dist` folder appear with the app. Double-click it to run it.
