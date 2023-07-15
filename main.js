@@ -16,6 +16,8 @@ function createWindow() {
   win.maximize();
   win.loadFile('googly.html') // Replace 'your-app.html' with the actual file name of your HTML file
 
+  win.setVisibleOnAllWorkspaces(true);
+
   // Uncomment the line below if you want to open the DevTools by default
   // win.webContents.openDevTools()
 }
